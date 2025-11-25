@@ -90,9 +90,4 @@ Best Model Artifact  # Saved for deployment/inference
 
 ---
 
-## 6. Next Steps (Planned)
 
-- Build a deployable inference API or Streamlit app
-- Add SHAP-based model interpretability
-- Automate pipeline via Databricks Jobs
-- Publish technical article describing the pipeline
