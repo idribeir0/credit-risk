@@ -43,18 +43,6 @@ README.md
 - Track experiments using MLflow
 - Produce a deploy-ready model for inference
 
----
-
-## 2. Objectives
-
-- Build a reproducible Data Engineering + ML pipeline in Databricks  
-- Clean and standardize credit application data  
-- Encode categorical & scale numerical features  
-- Train multiple Spark ML models  
-- Evaluate using F1-score  
-- Track experiments and artifacts with MLflow  
-- Save the best model to a UC Volume  
-- Run batch inference and generate a scoring Delta table  
 
 ---
 
